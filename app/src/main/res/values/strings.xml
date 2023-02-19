@@ -12,4 +12,7 @@
     <string name="info_groupe">Groupe</string>
     <string name="studentPictureDescription">StudentPicture</string>
     <string name="epsi_url">http://www.epsi.fr/</string>
+    <string name="headerProduitsTitle">Rayons</string>
+    <string name="layout_category_name">category name</string>
+    <string name="category_name_hint_layout">category name</string>
 </resources>
