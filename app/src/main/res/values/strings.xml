@@ -15,4 +15,9 @@
     <string name="headerProduitsTitle">Rayons</string>
     <string name="layout_category_name">category name</string>
     <string name="category_name_hint_layout">category name</string>
+    <string name="product_picture">ProductPicture</string>
+    <string name="product_name_textView">product name</string>
+    <string name="description_product_textView">Description :</string>
+    <string name="product_details_imageView">image du produit</string>
+    <string name="product_details_hint_textView">description :</string>
 </resources>

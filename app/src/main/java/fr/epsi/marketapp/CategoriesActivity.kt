@@ -3,6 +3,7 @@ package fr.epsi.marketapp
 import android.os.Bundle
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import fr.epsi.marketapp.adapter.CategoryAdapter
 import fr.epsi.marketapp.model.Category
 import okhttp3.*
 import org.json.JSONObject
