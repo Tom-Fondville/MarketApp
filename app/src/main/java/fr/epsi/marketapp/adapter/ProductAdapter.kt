@@ -36,8 +36,7 @@ class ProductAdapter (val products: ArrayList<Product>): RecyclerView.Adapter<Pr
         val product = products.get(position)
 
         holder.productNameTextView.text = product.name
-        val shortDescriprion = product.description.split('\n')
-        holder.productDescriptionTextView.text = shortDescriprion.first().plus(shortDescriprion.get(1))
+        holder.productDescriptionTextView.text = product.description
         Picasso.get().load(product.picture_url).into(holder.imageView)
 
         holder.container.setOnClickListener {
